@@ -2,6 +2,9 @@
 GIFs are “animated images” because they aren’t exactly videos. They don't have sound but flip their images sequentially for a number of loops.
 In this mini-mini project, I tried using Python's library "imageio" and created a gif with just "for" loop. 
 
+![emotions](https://github.com/user-attachments/assets/632c5055-fd96-478b-bca4-62939fd8927a)
+
+
 # Steps to create your very own GIF :
 1. Firstly, save or create images you want to create gif with, I used my own digital drawings with simple emotions drawn on them.
 2. Open cmd and type "pip install imageio", make sure you have python version already installed in your system.
